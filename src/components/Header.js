@@ -19,12 +19,11 @@ export default function Header(){
                             Capsules
                         </Link>
                     </li>
-                    {/* <li>
-                        <Link></Link>
-                    </li>
                     <li>
-                        <Link></Link>
-                    </li> */}
+                        <Link to="/cores" className="text-white text-sm lg:text-base">
+                            Cores
+                        </Link>
+                    </li>
                 </ul>
             </nav>
         </header>

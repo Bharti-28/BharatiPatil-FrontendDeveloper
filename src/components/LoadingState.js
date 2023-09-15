@@ -5,7 +5,7 @@ export default function LoadingState() {
         <>
         <div className="spinner">
             <article></article>
-            <p>The spinny thingy means it's loading</p>
+            <p className="text-white opacity-75 mt-5">The spinny thingy means it's loading</p>
         </div>
         </>
     )
